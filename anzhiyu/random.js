@@ -1,1 +1,1 @@
-var posts=["2023/04/26/mangu/","2023/04/26/Hong Kong/","2023/04/28/曼谷湄南河四季酒店 Four Seasons Hotel Bangkok at Chao Phraya River/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/04/26/Hong Kong/","2023/04/26/mangu/","2023/04/28/曼谷湄南河四季酒店 Four Seasons Hotel Bangkok at Chao Phraya River/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
