@@ -1,1 +1,1 @@
-var posts=["2023/04/26/mangu/","2023/04/26/Hong Kong/","2023/04/28/曼谷湄南河四季酒店 Four Seasons Hotel Bangkok at Chao Phraya River/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["clha1fis20000fgqfef1l6roa/a3eadeefbdb7/","clha1fis60001fgqfcylr2xcy/e67a060d717f/","clha1fis80004fgqfhzbs4xhj/cd9d5d5753cb/","clha1fis90005fgqfdwfj51oo/ae88254c41b0/","clha1fisa0006fgqf3mzogc31/42a26f1f0be0/","clha1fisb000afgqfdoqc0u9g/7a061fb21c7d/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
